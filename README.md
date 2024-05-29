@@ -41,7 +41,28 @@ VHODI:
     <td>Simulira vžgan motor</td>
   </tr>
 
-
-
-
 </table>
+
+
+![image2](https://github.com/Batobatina/-Zascitno-vziganje-avtom.-motorja/assets/123446717/6e2c50c1-8735-407a-8088-fca3d35ee662)
+<br>
+<br>
+<br>
+![Posnetek zaslona 2024-05-29 075826](https://github.com/Batobatina/-Zascitno-vziganje-avtom.-motorja/assets/123446717/bd0cf835-bb9c-47df-b2f8-ee02477af69d)
+<br>
+<br>
+
+
+https://github.com/Batobatina/-Zascitno-vziganje-avtom.-motorja/assets/123446717/0a9e422f-c054-44c8-9f67-5cafae42c025 
+
+
+<br>
+<br>
+<br>
+<br>
+KOMENTAR:<br/>
+Ker sva motor samo simulirala naloga ni bila realistična.Za bolj realistično izvedbo naloge bi dodala motor ali LED luči.
+
+
+
+
