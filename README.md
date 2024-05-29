@@ -61,7 +61,9 @@ https://github.com/Batobatina/-Zascitno-vziganje-avtom.-motorja/assets/123446717
 <br>
 <br>
 KOMENTAR:<br/>
-Ker sva motor samo simuliran projekt ni bil realističen.Za izboljšavo projekta in bolj realistično izvedbo naloge bi dodala motor ali LED luči.
+Za Izhod sva uporabila serial print ki je vgrajen v Arduino aplikacijo.<br/>
+
+Ker sva motor samo simulirala projekt ni bil realističen.Za izboljšavo projekta in bolj realistično izvedbo naloge bi dodala motor ali LED luči.
 
 
 
