@@ -66,7 +66,7 @@ Za Izhod sva uporabila serial print ki je vgrajen v Arduino aplikacijo.<br/>
 Ker sva motor samo simulirala projekt ni bil realističen.Za izboljšavo projekta in bolj realistično izvedbo naloge bi dodala motor ali LED luči.<br/>
 Za delovanje naloge kliknemo gumb ki naj bi zagnal "motor" to pa se naredi le če je vklopljen S2, ob enem pa motor nesme biti že vžgan(to simuliramo z S3).<br/>
 <br/>
-Na posnetku prikazujeva najprej kaj se zgodi ce ni vklopljen ne S2 niti S3 in vidimo da se nič ne zgodi, nato vklopiva S2 in deluje. Za tem pa vklopiva S3 in spet ne deluje, ker zazna da je "motor" že vklopljen.
+Na posnetku prikazujeva najprej kaj se zgodi če ni vklopljen ne S2 niti S3 in vidimo da se nič ne zgodi, nato vklopiva S2 in deluje. Za tem pa vklopiva S3 in spet ne deluje, ker zazna da je "motor" že vklopljen.
 
 
 
